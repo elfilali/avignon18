@@ -7,6 +7,11 @@
           AMOUZOUN
           NDIAYE
           SERVILLAT
+2. implémentation du schéma de SHAMIR
+          AMINE KHODJA Ahmed Ramy
+          Aissam ELFILALI
+          Mounir CHUIAKH
+          TETAH nesrine
      ```python
     
      # Base de donnée contenant l'historique des sequences de demandes de
